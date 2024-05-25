@@ -1,1 +1,1 @@
-This project is jointly done by J. Spandhan Srirag & Anindya Biswas. All the project related details can be found [here](https://github.com/AtomicAnindya/Inverted-Pendulum-Balance/blob/main/Inverted_Pendulum_Balancing_using_LQR%20(2).pdf)
+This project is jointly done by [J. Spandhan Srirag](https://github.com/Spandhan2003) & [Anindya Biswas](https://github.com/AtomicAnindya). All the project related details can be found [here](https://github.com/AtomicAnindya/Inverted-Pendulum-Balance/blob/main/Inverted_Pendulum_Balancing_using_LQR%20(2).pdf)
